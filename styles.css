@@ -1,0 +1,35 @@
+
+#parking-lot {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.parking-space {
+    width: 25px;
+    height: 25px;
+    margin: 5px;
+    border: 1px solid #333;
+    cursor: pointer;
+}
+
+.empty {
+    background-color: #aaffaa;
+}
+
+.occupied {
+    background-color: #ffaaaa;
+}
+footer{
+    display: flex;
+    text-decoration: white;
+    background-color: rgb(15, 15, 72);
+}
+.share{
+    color: white;
+    border: solid na;
+
+}
+.About{
+    color: white;
+}

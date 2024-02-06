@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Car parking slots</title>
+    <link rel="stylesheet" href="styles.css">
+    <style>
+        body{
+            background-image: none;
+            background-color: whites;
+        }
+        .instruction{
+            display: grid;
+            font-weight: bold;
+            font-size: 25px;
+            border: 1px sandybrown;
+            margin-top:10% ;
+        }
+        h3{
+            font-size: 30px;
+            font-weight: bold;
+            font-style: calc();
+            text-decoration: underline;
+            color: rgb(60, 26, 211);
+        }
+    </style>
+</head>
+<body>
+    <center>
+    <div class="instruction">
+        <h3>Bike slots</h3>
+        <label> 1.To book the slot click on the green box.</label>
+        <label> 2.Red box means that particular slot is booked.</label>
+    </div>
+   </center>
+    <br><br>
+
+    <div id="parking-lot">
+        <!-- Parking spaces will be dynamically added here -->
+        <script src="script.js"></script>
+    </div>
+</body>
+</html>

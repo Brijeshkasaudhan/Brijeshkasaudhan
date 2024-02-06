@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Login pagwt</title>
+    <style>
+        body{
+            background-color: rgb(134, 211, 242);
+            font-size: 20px;
+            font-family: 'Arial', sans-serif;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            background-color: #5bb3f7;
+        }  
+        .container{
+        width: 450px;
+        border-radius: 10px;
+        overflow: hidden;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        background-color: #fff;
+        }
+        table{
+            display: flex;
+        }
+        img{
+            height: 130px;
+            width: 130p;
+            border: 1px solid rgb(108, 101, 101);
+            margin-top: 0px;
+        }
+        button{
+            border: 2px solid black;
+            border-radius: 10px;
+            font-weight: bold;
+            margin-bottom: 3px;
+        }
+        button a{
+            text-decoration: none;
+        }
+        button:hover{
+            background-color: rgb(152, 152, 152);
+        }
+        div{
+            display: block;
+            margin: 5px;
+        }
+        h2{
+            color: blue;
+        }
+        .form{
+            display: grid;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+    <center>
+        <h2>Login Page</h2>
+        <table>
+            <label class="img"> <img src="car.jpg" alt=""> </label>
+        <form action="no reaction" class="form">
+            <div class="entery">
+                <b>
+                Name &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:&nbsp;<input type="text" name="name" placeholder="Enter your name">
+                </b>
+            </div>
+            <center>
+            <b>
+            <div class="entery"> Age &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:&nbsp;<input type="number" maxlength="2" placeholder="Enter your Age"></div>
+            <div class="entery" id="ph">Phone No. : <input type="text" name="ph" placeholder="Phone number"></div>
+            <div class="entery">Email Id. &nbsp;&nbsp;: <input type="email" name="Email" id="Email" placeholder="Email"></div>
+            <div class="entery">Vehicle No.: <input type="text"  name="Vehicle number" id="Vehicle" placeholder="Vehicle number"></div>
+            </b>
+             </center>
+        </form>
+        <button class="submit"> <a href="park.html">SUBMIT</a></button>
+        </table>
+    </center>
+    </div>
+</body>
+</html>
