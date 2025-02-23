@@ -1,4 +1,4 @@
-README: Getting started with your Mobirise AI website
+//README: Getting started with your Mobirise AI website
 
 This README will guide you through the simple steps to open your AI-generated project file in the Mobirise app.
 
