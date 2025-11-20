@@ -1,24 +1,5 @@
-//README: Getting started with your Mobirise AI website
+I’m a passionate Software & AI Developer currently pursuing B.Tech in Computer Science (CGPA: 8.09), with hands-on experience in building real-world applications using JavaScript, React, Node.js, Python, and Java. I love solving problems and turning ideas into working products — from creating a Smart Parking Management System with Razorpay integration to designing a CNN-based Plant Disease Detection model achieving 90% accuracy.
 
-This README will guide you through the simple steps to open your AI-generated project file in the Mobirise app.
+I’ve completed multiple industry-recognized internships under AICTE, Microsoft, Edunet, and Salesforce, where I worked on AI foundations, data analytics, predictive modeling, and cloud-based automation. My work spans full-stack development, machine learning, UI/UX design, and backend logic.
 
-Step 1: Extract your website files
-You need to unzip the whole folder with downloaded files to access site files and your project file properly.
-
-Step 2: Open the Mobirise app
-It's required to have version 5.9.0 or a more recent version installed.
-If you haven’t already installed the Mobirise app, visit https://mobirise.com/history.html to download and install it.
-Once installed, open the Mobirise app on your device.
-
-Step 3: Import your project file
-In the Mobirise app, navigate to the 'Sites' list. Click on the 'Import Mobirise Site' button to import your project
-file. Select the project.mobirise file you extracted from the zipped folder.
-
-Step 4: Start editing
-Now that your project is imported, you can edit and customize the generated site to make it uniquely yours. Feel free to
-experiment with different styles, layouts, and content. You can also add other available blocks.
-
-
-Need help?
-For assistance, contact us at support@mobirise.com
-Join our community: https://forums.mobirise.com/
+My GitHub reflects my commitment to continuous learning, clean coding practices, and building impactful projects that address real-world challenges. I’m actively looking for opportunities to apply my technical expertise in AI, full-stack development, or software engineering roles.
