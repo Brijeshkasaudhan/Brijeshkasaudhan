@@ -67,8 +67,16 @@ A polished Next.js project is under development — will showcase:
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Brijeshkasaudhan&show_icons=true&theme=react" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brijeshkasaudhan&layout=compact&theme=react" height="160" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=Brijeshkasaudhan&show_icons=true&theme=react" 
+    height="160" 
+    alt="GitHub Stats"
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brijeshkasaudhan&layout=compact&theme=react" 
+    height="160" 
+    alt="Top Languages"
+  />
 </p>
 
 ---
