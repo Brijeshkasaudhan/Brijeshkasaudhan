@@ -113,12 +113,10 @@ Completed the “Developer Super Set Badge”.
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=Brijeshkasaudhan&show_icons=true&theme=react" 
-    height="160"
+    src="https://raw.githubusercontent.com/DenverCoder1/github-readme-stats/master/generated/overview.svg#gh-dark-mode-only" 
   />
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brijeshkasaudhan&layout=compact&theme=react" 
-    height="160"
+    src="https://raw.githubusercontent.com/DenverCoder1/github-readme-stats/master/generated/languages.svg#gh-dark-mode-only" 
   />
 </p>
 
