@@ -22,7 +22,7 @@
 ## 🎓 Education  
 - **B.Tech in Computer Science (2022–2026)**  
   IMS Engineering College, Ghaziabad  
-  **CGPA: 8.09**  [oai_citation:1‡Brijesh2.pdf](sediment://file_00000000f4f87207a487d442670fe90d)  
+  **CGPA: 8.09** 
 - **Class XII (CBSE, 2021)** – Air Force School, Gorakhpur – **90.16%**  
 - **Class X (CBSE, 2019)** – Sacred Heart School, Maharajganj – **90.67%**
 
@@ -31,7 +31,7 @@
 ## 🛠️ Tech Stack
 
 ### **Programming Languages**
-- Java, C, Python, JavaScript  [oai_citation:2‡Brijesh2.pdf](sediment://file_00000000f4f87207a487d442670fe90d)
+- Java, C, Python, JavaScript 
 
 ### **Frontend**
 <p>
@@ -76,27 +76,27 @@ Python-based project focused on smart agriculture.
 
 ### 🔹 **3. Smart Parking Management System**  
 Designed UI/UX and integrated Razorpay to show real-time parking availability.  
-**Tech:** HTML, CSS, JS, Bootstrap  [oai_citation:3‡Brijesh2.pdf](sediment://file_00000000f4f87207a487d442670fe90d)
+**Tech:** HTML, CSS, JS, Bootstrap  
 
 ---
 
 ### 🔹 **4. Plant Disease Detection (CNN)**  
 Built a CNN using TensorFlow/Keras achieving **90% accuracy** on plant disease classification.  
-Handled augmentation, normalization, and preprocessing.  [oai_citation:4‡Brijesh2.pdf](sediment://file_00000000f4f87207a487d442670fe90d)
+Handled augmentation, normalization, and preprocessing.  
 
 ---
 
 ## 💼 Internships
 
 ### **AI & Data Analytics Intern — AICTE × Edunet Foundation (Apr–May 2025)**  
-Worked on AI for sustainability, predictive modeling, data visualization, and ML-driven insights.  [oai_citation:5‡Brijesh2.pdf](sediment://file_00000000f4f87207a487d442670fe90d)
+Worked on AI for sustainability, predictive modeling, data visualization, and ML-driven insights.  
 
 ### **AI Foundations Intern — Microsoft Initiative (Apr–May 2025)**  
-Studied ML techniques, neural networks, AI ethics; completed Python-based projects.  [oai_citation:6‡Brijesh2.pdf](sediment://file_00000000f4f87207a487d442670fe90d)
+Studied ML techniques, neural networks, AI ethics; completed Python-based projects.  
 
 ### **Salesforce Developer Intern (Virtual, Oct–Nov 2023)**  
 Worked on flows, automation, Apex basics, org setup, debugging.  
-Completed the “Developer Super Set Badge”.  [oai_citation:7‡Brijesh2.pdf](sediment://file_00000000f4f87207a487d442670fe90d)
+Completed the “Developer Super Set Badge”.  
 
 ---
 
@@ -106,8 +106,7 @@ Completed the “Developer Super Set Badge”.  [oai_citation:7‡Brijesh2.pdf](
 - Data Science for Engineers  
 - Python (Guvi)  
 - AI India 2.0  
-- **AI Odyssey Winner — IIT Kharagpur (Mar 2025)**  [oai_citation:8‡Brijesh2.pdf](sediment://file_00000000f4f87207a487d442670fe90d)
-
+- **AI Odyssey Winner — IIT Kharagpur (Mar 2025)**  
 ---
 
 ## 📊 GitHub Stats
