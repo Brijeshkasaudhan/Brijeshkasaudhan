@@ -132,7 +132,7 @@ Completed the “Developer Super Set Badge”.
 ✔ Strengthening React / Next.js skills  
 ✔ Making 3–5 open-source PRs  
 ✔ Building production-ready frontend apps  
-✔ Getting shortlisted for **rtCamp – Associate React Engineer**  
+ 
 
 ---
 
