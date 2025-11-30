@@ -112,6 +112,10 @@ Completed the “Developer Super Set Badge”.
 ## 📊 GitHub Stats
 
 <p align="center">
+ <img 
+    src="https://streak-stats.demolab.com?user=Brijeshkasaudhan&theme=react" 
+    height="160"
+  />
   <img 
     src="https://raw.githubusercontent.com/DenverCoder1/github-readme-stats/master/generated/overview.svg#gh-dark-mode-only" 
   />
