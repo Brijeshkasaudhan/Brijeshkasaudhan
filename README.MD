@@ -2,7 +2,7 @@
 <h3 align="center">Frontend / Full-Stack Developer | React • Next.js • JavaScript</h3>
 
 <p align="center">
-  🚀 Passionate about building clean, scalable and user-friendly applications.  
+  🚀 Passionate about building clean, scalable and user-friendly applications.<br/>
   I enjoy creating projects in React/Next.js and contributing to open-source.
 </p>
 
@@ -44,13 +44,13 @@
 ## 🚀 Featured Projects
 
 ### 🔹 **1. Tools Web App**
-A simple, multi-feature web tool (PDF/Image utilities).  
+A multi-feature web tool (PDF/Image utilities).  
 🔗 **Repo:** https://github.com/Brijeshkasaudhan/Tool
 
 ---
 
 ### 🔹 **2. Sustainable Agriculture with AI**
-Python-based project focusing on smart agriculture concepts.  
+Python-based project focused on smart agriculture.  
 🔗 **Repo:** https://github.com/Brijeshkasaudhan/coders_sustainable_agriculturewithai
 
 ---
@@ -67,8 +67,8 @@ A polished Next.js project is under development — will showcase:
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Brijeshkasaudhan&show_icons=true&theme=react" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brijeshkasaudhan&layout=compact&theme=react" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Brijeshkasaudhan&show_icons=true&theme=react" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brijeshkasaudhan&layout=compact&theme=react" height="160" />
 </p>
 
 ---
@@ -76,7 +76,7 @@ A polished Next.js project is under development — will showcase:
 ## 🌐 Connect With Me
 <p>
   <a href="https://github.com/Brijeshkasaudhan"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" /></a>
-  <a href="YOUR-LINKEDIN-URL"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/brijesh-kasaudhan-4b2668257"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" /></a>
 </p>
 
 ---
@@ -84,7 +84,7 @@ A polished Next.js project is under development — will showcase:
 ## 🎯 What I’m Working Toward
 ✔ Strengthening React / Next.js Skills  
 ✔ Making 3–5 Open-Source PRs  
-✔ Building polished, production-grade frontend apps  
+✔ Building polished frontend apps  
 ✔ Getting shortlisted for **rtCamp – Associate React Engineer**  
 
 ---
