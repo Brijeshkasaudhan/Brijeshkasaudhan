@@ -116,10 +116,7 @@ Completed the “Developer Super Set Badge”.
     src="https://streak-stats.demolab.com?user=Brijeshkasaudhan&theme=react" 
     height="160"
   />
-<img 
-  src="https://streak-stats.demolab.com?user=Brijeshkasaudhan&theme=react&cache_seconds=86400" 
-  height="160"
-/>
+
 </p>
 
 ---
