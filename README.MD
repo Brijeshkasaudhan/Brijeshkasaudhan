@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Brijesh Kumar
+# 👋 Hi, I'm Brijesh Kasaudhan
 
 **Associate Software Engineer Aspirant | WordPress • JavaScript • PHP**
 
